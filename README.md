@@ -51,3 +51,6 @@ Run:
 ```
 python create_faiss_index.py
 ```
+
+## Run a visual search
+To run a visual search over your images and index, you can use the corresponding [backend](https://github.com/jplu/visual-search-backend) and [frontend](https://github.com/jplu/visual-search-frontend).
